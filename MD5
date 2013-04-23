@@ -1,0 +1,8 @@
+12815b2673070b0ffc8f6c8bf5feb45b *DESCRIPTION
+0f1abd0919dd74164e37284e355a3f5d *NAMESPACE
+87cc07c6aba97949081ddded7a200554 *R/sigloc.R
+0371e637e5212c0d12e4c3ae71a12e05 *data/bear.txt.gz
+e97308f65fe5db96cc09ad55434dfbaf *man/as.receiver.Rd
+68ea002d96782968f75c75f93ec3a7d6 *man/bear.Rd
+4d1c4e73c598b7382708a359c800069f *man/findintersects.Rd
+c157549d54a4b3fec9e1b46cff1b12c0 *man/locate.Rd
